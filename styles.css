@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+table{
+	border-collapse:collapse;
+}
+#part{
+	background-color:red;
+}
+#waist{
+		background-color:hotpink;
+}
+#chest{
+	background-color:grey;
+}
+#sleeve{
+	background-color:whitesmoke;
+}
